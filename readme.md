@@ -5,6 +5,7 @@ I'm a full-stack engineer and OSS tinkerer 🚀 , passionate about creating exce
 
 Beyond coding, I enjoy exploring various interests like mentoring, psychology, finance, public speaking, and visual media.<br> [Feel free to connect with me](https://www.linkedin.com/in/themohammadsa/) and let's collaborate on exciting projects! 🤝.
 
+## TL; but want to read? 😅
 ### My journey
 **"Building the Future, One Line of Code at a Time!"** - This motto fuels my enthusiasm as a full-stack engineer. I thrive on creating, building, and designing products from scratch, with a strong focus on delivering exceptional user experiences through seamless UI/UX design.
 
